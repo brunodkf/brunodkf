@@ -7,10 +7,6 @@
   ##  
 
 
-  <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodkf&layout=compact&langs_count=7&theme=react"/>
-</div>
-
   ### Tecnologias:
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=orange) 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=blue)
